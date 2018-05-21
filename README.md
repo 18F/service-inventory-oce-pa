@@ -9,7 +9,7 @@ OCE is engaging 18F to create a strategy and a roadmap for the potential catalog
 
 ## 18F Team
 
-- Ryan Sibley, Lead Designer [@ryansibley](@https://github.com/RyanSibley)
+- Ryan Sibley, Lead Designer [@ryansibley](https://github.com/RyanSibley)
 - Qituwrwa Anderson, User Experience [@qmanderson1](https://github.com/qmanderson1)
 - Jeremy Canfield, User Experience [@onezerojeremy](https://github.com/onezerojeremy)
 - Olesya Minina, Engagement Manager [@ominina](https://github.com/ominina)

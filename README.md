@@ -23,7 +23,7 @@ OCE is engaging 18F to create a strategy and a roadmap for the potential catalog
 - **Stand-ups w/ the partners at OCE**: Daily video checkins via [Google Meet](https://meet.google.com/xyi-imdc-uop?authuser=1&hs=122),  11:30 ET
 - **Co-working**: TBD
 - **Shipping News**: Update document during the week, submit on Fridays. 
-- **Tracking work**: Github Projects (note that since this is an 6 week engagement, we are breaking up our work into 1 week goal periods) 
+- **Tracking work**: Github Projects (note that since this is a six week engagement, we are breaking up our work into one week goal periods) 
 - **Slack, 18F + OCE**: To come
 - **CPS + 18F check-ins**: weekly to discuss budget and overall progress/blockers
 - **Retrospectives**: TBD
